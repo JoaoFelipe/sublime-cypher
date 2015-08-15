@@ -1,4 +1,4 @@
-# Sublime Text 2 plugin - Cypher
+# Sublime Text 2/3 plugin - Cypher
 
 A plugin for working with [Neo4j](http://www.neo4j.org)'s [Cypher](http://docs.neo4j.org/chunked/milestone/cypher-query-lang.html) query language in [SublimeText](http://www.sublimetext.com).
 
